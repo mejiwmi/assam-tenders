@@ -9,3 +9,5 @@ dependencies:
   - seaborn
   - jupyter
   - shap
+  - scipy-stubs
+  - xgboost
