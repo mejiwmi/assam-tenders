@@ -8,6 +8,4 @@ dependencies:
   - scikit-learn
   - seaborn
   - jupyter
-  - shap
   - scipy-stubs
-  - xgboost
